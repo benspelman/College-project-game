@@ -1,0 +1,30 @@
+div {
+    width: 640px;
+    height: 360px;
+    background-image: url(assets/start.jpg);
+    text-align: center;
+    margin-top: -25px;
+}
+
+body {
+    font-family: Arial;
+    color: white;
+    text-shadow: 3px 3px #000000;
+}
+
+h1 {
+    padding-top: 50px;
+    font-size: 50px;
+}
+
+h2 {
+    margin-top: 70px;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: yellow;
+}
